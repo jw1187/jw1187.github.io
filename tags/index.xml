@@ -6,12 +6,14 @@
     <description>Recent content in Tags on JS&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>jswang1187@gmail.com (JiunShiang Wang)</managingEditor>
+    <webMaster>jswang1187@gmail.com (JiunShiang Wang)</webMaster>
     <lastBuildDate>Thu, 10 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://jw1187.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>中文</title>
       <link>https://jw1187.github.io/tags/%E4%B8%AD%E6%96%87/</link>
       <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
-      
+      <author>jswang1187@gmail.com (JiunShiang Wang)</author>
       <guid>https://jw1187.github.io/tags/%E4%B8%AD%E6%96%87/</guid>
       <description></description>
     </item>
@@ -20,7 +22,7 @@
       <title>心情隨寫</title>
       <link>https://jw1187.github.io/tags/%E5%BF%83%E6%83%85%E9%9A%A8%E5%AF%AB/</link>
       <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
-      
+      <author>jswang1187@gmail.com (JiunShiang Wang)</author>
       <guid>https://jw1187.github.io/tags/%E5%BF%83%E6%83%85%E9%9A%A8%E5%AF%AB/</guid>
       <description></description>
     </item>

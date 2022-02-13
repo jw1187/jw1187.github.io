@@ -5,6 +5,8 @@
     <link>https://jw1187.github.io/archives/</link>
     <description>Recent content in Archives on JS&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://jw1187.github.io/archives/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <managingEditor>jswang1187@gmail.com (JiunShiang Wang)</managingEditor>
+    <webMaster>jswang1187@gmail.com (JiunShiang Wang)</webMaster><atom:link href="https://jw1187.github.io/archives/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
