@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>文章導覽 on JS&#39;s Blog</title>
+    <link>https://jw1187.github.io/categories/%E6%96%87%E7%AB%A0%E5%B0%8E%E8%A6%BD/</link>
+    <description>Recent content in 文章導覽 on JS&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>jswang1187@gmail.com (JiunShiang Wang)</managingEditor>
+    <webMaster>jswang1187@gmail.com (JiunShiang Wang)</webMaster>
+    <lastBuildDate>Mon, 14 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://jw1187.github.io/categories/%E6%96%87%E7%AB%A0%E5%B0%8E%E8%A6%BD/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction of this blog</title>
+      <link>https://jw1187.github.io/2022/02/introduction-of-this-blog/</link>
+      <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
+      <author>jswang1187@gmail.com (JiunShiang Wang)</author>
+      <guid>https://jw1187.github.io/2022/02/introduction-of-this-blog/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
